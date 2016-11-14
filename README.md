@@ -9,3 +9,5 @@
 
 5. This is sample develop
 
+$ cd Desktop
+
