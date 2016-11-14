@@ -1,2 +1,5 @@
 # PlayGit
-To play with git
+Create a Project
+Resign Testserver
+Calabash-android run <apk>
+
