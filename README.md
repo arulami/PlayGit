@@ -1,7 +1,7 @@
 # PlayGit
-Create a Project
+1. Create a Project
 
-Resign Testserver
+2. Resign Testserver
 
-Calabash-android run <apk>
+3. Calabash-android run <apk>
 
