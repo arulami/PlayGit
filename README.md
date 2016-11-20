@@ -9,5 +9,6 @@
 
 5. This is sample develop
 
+6. Created a branch develop
 $ cd Desktop
 
